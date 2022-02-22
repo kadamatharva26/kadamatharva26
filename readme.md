@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Machine Learning.
 
-- 👯 I’m looking to collaborate on ML,Data Science or Data Analytics Projects.
+- I’m looking to collaborate on ML,Data Science or Data Analytics Projects.
   
 ## Github Stats:
 <br/>
